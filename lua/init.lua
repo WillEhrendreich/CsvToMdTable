@@ -1,1 +1,1 @@
-return require("csvToMdTable")
+return require("CsvToMdTable")
